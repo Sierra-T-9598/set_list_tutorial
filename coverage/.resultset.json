@@ -247,6 +247,9 @@
           1,
           1,
           1,
+          1,
+          1,
+          1,
           null,
           null
         ]
@@ -254,6 +257,62 @@
       "/Users/sierratucker/turing/2module/practice/set_list/app/helpers/application_helper.rb": {
         "lines": [
           1,
+          null
+        ]
+      },
+      "/Users/sierratucker/turing/2module/practice/set_list/spec/features/artists/edit_spec.rb": {
+        "lines": [
+          1,
+          null,
+          1,
+          1,
+          1,
+          null,
+          1,
+          null,
+          1,
+          null,
+          1,
+          null,
+          null,
+          1,
+          1,
+          1,
+          1,
+          1,
+          null,
+          null,
+          null,
+          1,
+          1,
+          null,
+          1,
+          1,
+          null,
+          null
+        ]
+      },
+      "/Users/sierratucker/turing/2module/practice/set_list/spec/features/artists/new_spec.rb": {
+        "lines": [
+          1,
+          null,
+          1,
+          1,
+          1,
+          null,
+          1,
+          1,
+          null,
+          null,
+          1,
+          1,
+          null,
+          1,
+          1,
+          null,
+          1,
+          1,
+          null,
           null
         ]
       },
@@ -384,15 +443,37 @@
         "lines": [
           1,
           1,
+          7,
+          null,
+          null,
+          1,
+          null,
+          null,
+          1,
+          1,
+          1,
+          null,
+          null,
+          1,
           2,
           null,
           null,
           1,
+          1,
+          1,
+          1,
           null,
           null,
           1,
           1,
           1,
+          1,
+          null,
+          null,
+          null,
+          1,
+          1,
+          2,
           null,
           null
         ]
@@ -427,6 +508,6 @@
         ]
       }
     },
-    "timestamp": 1638725157
+    "timestamp": 1638731528
   }
 }

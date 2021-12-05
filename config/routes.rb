@@ -5,5 +5,8 @@ Rails.application.routes.draw do
   get '/artists', to: 'artists#index'
   get '/artists/new', to: 'artists#new'
   post '/artists', to: 'artists#create'
+  get 'artists/:id/edit', to: 'artists#edit'
+  patch 'artists/:id', to: 'artists#update'
+  delete 'artists/:id', to: 'artists#destroy'
   # For details on the DSL available within this file, see http://guides.rubyonrails.org/routing.html
 end
